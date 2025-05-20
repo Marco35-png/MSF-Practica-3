@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Práctica 2: Sistema respiratorio'
+title: 'Práctica 3: Sistema cardiovascular'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -18,7 +18,7 @@ authors:
     affiliation: Tecnologico Nacional de Mexico
 identifiers:
   - type: url
-    value: 'https://github.com/Marco35-png/MSF-Practica-1'
+    value: 'https://github.com/Marco35-png/MSF-Practica-3/tree/main'
 keywords:
   - Controlador PID
   - Sistema de control
